@@ -1,12 +1,14 @@
-# Portfolio
-![Bartosz Lewosz personal website.](Group 38(3).png)
+# Sunset Kaszuby - all year house rental in Kashuby with reservation system
+### <div align="center">Build with WordPress</div>
 
-[Have a look! ](https://bartoszlewosz.github.io)
+![Sunset Kaszuby - accomodation in Kashuby.](sunset_logo.png)
+
+[Have a look! ](https://sunsetkaszuby.pl/)
 
 
 ## Description
 
-This is my **Portfolio**. I made it during online course **WTF - WhatTheFrontend** for practice.
+This is my project as a freelance activity. 
 
 ### What's behind?
 
