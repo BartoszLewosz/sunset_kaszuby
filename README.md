@@ -56,5 +56,5 @@ Working for Sunset Kaszuby from the very beginning of this project showed me how
 
 
 
-# sunset_kaszuby
-Booking website for rental accomodation in Kashubian(north Poland) lake district
+# Sunset Kaszuby
+Booking website for rental accomodation in Kashubian (north Poland) lake district
