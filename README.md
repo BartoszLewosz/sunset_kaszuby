@@ -38,6 +38,16 @@ As I agreed with my client about the choice of WordPress theme, I started to ins
 
 ### Outcome
 
+The end result was a fully responsive website with a functional booking system that enables potential guests to make reservations and payments with ease.
+
+### Next steps
+
+While the all-year holiday homes are under construction, the booking website is ready for the business to launch in spring 2022. My role is:
+  - to provide ongoing technical support
+  - manage the website
+  - Taking care of the technical part of the project
+  - reviewing and improving the website
+  - supporting non-tech business owners and employees
 
 
 
