@@ -30,6 +30,7 @@ I worked liaising with my main point of contact, two company directors, to manag
 
 ### Process
 
+The very first step was researching the holiday homes rental market by analyzing that branch of the market. With my problem solving approach and consulting my observations with firm owners, I came out with solutions how we want to stand out, what are the strengths and weaknesses, and what are our advantages. I then started sketching the wire-frames of potential guests' reservation process.
 
 
 
