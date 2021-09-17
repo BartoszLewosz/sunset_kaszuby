@@ -32,8 +32,11 @@ I worked liaising with my main point of contact, two company directors, to manag
 
 The very first step was researching the holiday homes rental market by analyzing that branch of the market. With my problem solving approach and consulting my observations with firm owners, I came out with solutions how we want to stand out, what are the strengths and weaknesses, and what are our advantages. I then started sketching the wire-frames of potential guests' reservation process.
 
+### Design
 
+As I agreed with my client about the choice of WordPress theme, I started to insert topic-related elements. My choice of colours represents the sunset. To improve accessibility, I set the contrast using a darker colour set of fonts. By changing some details in SVG files, I brought a more user friendly, welcoming interface of the website. 
 
+### Outcome
 
 
 
