@@ -24,9 +24,13 @@ Sunset Kaszuby is a start-up company of four entrepreneurs based in central Euro
 
 Sunset Kaszuby is a family owned startup company with a little experience of technical environment. This meant that I had to take a lead in all of the processes of creating the website. Every decision we made on that project was gently explained and translated to basic terminology terms to firm owners. Another challenge was to research most common payment methods in the local market and set up secure payment with PayPal or credit/debit card.
 
-### Challenges
+### Role
 
-I followed the BEM standards and wrote my code as **clean** as possible.
+I worked liaising with my main point of contact, two company directors, to manage the project in domain name, email marketing setup, UI/UX, payment gates, users administration and long term changes.
+
+### Process
+
+
 
 
 
