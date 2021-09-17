@@ -1,7 +1,8 @@
-# Sunset Kaszuby - all year house rental in Kashuby with reservation system
-### <div align="center">Build with WordPress</div>
+# Sunset Kaszuby - Holiday homes rental in Kashuby with reservation system
+
 
 ![Sunset Kaszuby - accomodation in Kashuby.](sunset_logo.png)
+##### Build with WordPress
 
 [Have a look! ](https://sunsetkaszuby.pl/)
 
