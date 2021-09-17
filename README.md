@@ -49,6 +49,9 @@ While the all-year holiday homes are under construction, the booking website is 
   - reviewing and improving the website
   - supporting non-tech business owners and employees
 
+### What did I learn?
+
+Working for Sunset Kaszuby from the very beginning of this project showed me how important it is to research and plan in advance. Seeing things from the customer's perspective  taught me how the subtle details contribute towards creating a user friendly website crucial for the business. Looking forward to continuing cooperate with Sunset Kaszuby.
 
 
 
