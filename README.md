@@ -13,23 +13,18 @@ This is my project as a freelance activity.
 
 ### What's behind?
 
-To create this website I used [gulp-starter-pack](https://github.com/maciejkorsan/wtf-gulp-starter#wtf-gulp-starter):
+To create this website I used WordPress.org and Motopress plugin. 
 
-~~~~
-npm install -g gulp-cli
-npm install
-gulp
-~~~~
 
-### Tools that I've used:
+### Goal
 
-- VSCode
-- SASS
-- Fetch API
-- CSS grid
-- Figma
-- git
-- terminal
+Sunset Kaszuby is a start-up company of four entrepreneurs based in central Europe. They approached me at the beginning of their journey in the business of summer homes rental market. They made a request for a website with a  contact form as well as a reservation system that accepts online payments. After a series of discovery sessions, we collectively decided to use CMS (Content Management System).
+
+### Challenges
+
+Sunset Kaszuby is a family owned startup company with a little experience of technical environment. This meant that I had to take a lead in all of the processes of creating the website. Every decision we made on that project was gently explained and translated to basic terminology terms to firm owners. Another challenge was to research most common payment methods in the local market and set up secure payment with PayPal or credit/debit card.
+
+### Challenges
 
 I followed the BEM standards and wrote my code as **clean** as possible.
 
